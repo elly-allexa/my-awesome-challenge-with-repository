@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 90%;
+  margin: 20px auto;
+  border-radius: 20px;
+  display: block;
+}
+
+.contact-btn {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
